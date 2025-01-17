@@ -1,19 +1,23 @@
-<div align="left">
-	<img src="https://metrics.lecoq.io/kid1110?template=classic&config.timezone=Asia%2FShanghai">
-</div class="maintain">
-<div style="display:inline-block">
-<span align="left">
-	<img height="137px" width="330px" src="https://github-readme-stats.vercel.app/api?username=kid1110&show_icons=true&theme=radical" />
-</span>	
-<span align="center">
-	<img  height="137px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kid1110&layout=compact&show_icons=true&theme=radical" />
-</span>	
-</div>
+# Hi there, I'm kid1110! 👋
+
+A frontend/backend beginner
+
+## 🌱 What I'm Currently Learning
+
+- ![JavaScript](https://skillicons.dev/icons?i=typescript,react,vue)
+- ![Rust](https://skillicons.dev/icons?i=rust,go,java,c)
+- ![Docker](https://skillicons.dev/icons?i=idea,neovim,docker)
 
 
+## 🛠️ Technologies & Tools
 
+- **Frontend**: ![JavaScript](https://skillicons.dev/icons?i=javascript,html,css)
+- **Backend**: ![Go](https://skillicons.dev/icons?i=go,java) 
+- **Languages**: ![language](https://skillicons.dev/icons?i=javascript,c,java,go) 
+- **Tools**: ![tools](https://skillicons.dev/icons?i=docker,git,vscode)
 
+## 📫 How to Reach Me
 
-
+- [![](https://img.shields.io/badge/email-contack-blue)](mailto:1050109853@qq.com)
 
 
